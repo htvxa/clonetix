@@ -1,0 +1,20 @@
+//Helper
+@import './Helper/variables';
+@import './Helper/mixin';
+
+//Bases
+@import './Base/reset';
+@import './Base/customize';
+
+//Components
+
+//Layouts
+@import './Layout/header';
+@import './Layout/footer';
+
+// Pages 
+@import './Pages/home/stickets';
+@import './Pages/home/movies';
+@import './Pages/home/news';
+@import './Pages/home/app';
+@import './Pages/home/slidebar';
